@@ -30,7 +30,7 @@ public class Main {
                        System.out.println ("Ingrese el segundo numero");
                        Res2=sn.nextInt();
                        resta=Res1-Res2;
-                       System.out.println("El resultado de la suma es:"+resta);
+                       System.out.println("El resultado de la resta es:"+resta);
          }
 
                    case 3 -> {
@@ -41,7 +41,7 @@ public class Main {
                        System.out.println("Ingresa el segundo numero");
                        Div2 = sn.nextInt ();
                        Division = Div1/Div2;
-                       System.out.println("El resultado de la suma es:"+Division);
+                       System.out.println("El resultado de la división es:"+Division);
          }
                    
                    case 4 -> {
@@ -52,7 +52,7 @@ public class Main {
                        System.out.println("Ingresa el segundo numero");
                        Mul2 = sn.nextInt ();
                        Multiplicacion=Mul1*Mul2;
-                       System.out.println("El resultado de la suma es : "+Multiplicacion);
+                       System.out.println("El resultado de la multiplicación es : "+Multiplicacion);
          }
                    case 5 -> {
                        boolean salir = true;
