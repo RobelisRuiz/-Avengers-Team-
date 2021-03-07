@@ -53,7 +53,6 @@ public class sistema {
                  String nombre;
                  String apellido;
                  String nacionalidad;
-                 String articulo;
                  String direccion;
                  String contraseña;
                  int seleccion;
